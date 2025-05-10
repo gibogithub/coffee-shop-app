@@ -46,7 +46,7 @@ h2 {
 
 img {
   display: block;
-  margin: -25px auto 0 auto;
+  margin: -20px auto 0 auto;
 }
 
 hr {
@@ -102,4 +102,10 @@ a:visited {
 a:hover,
 a:active {
   color: brown;
+}
+
+.menu-icon {
+  display: block;
+  margin: 10px auto 20px auto; /* top, left/right, bottom */
+  width: 50px; /* optional: make icons consistently sized */
 }
