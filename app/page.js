@@ -16,23 +16,23 @@ export default function Home() {
           />
           <article className="item">
             <p className="flavor">French Vanilla</p>
-            <p className="price">3.00</p>
+            <p className="price">$3.00</p>
           </article>
           <article className="item">
             <p className="flavor">Caramel Macchiato</p>
-            <p className="price">3.75</p>
+            <p className="price">$3.75</p>
           </article>
           <article className="item">
             <p className="flavor">Pumpkin Spice</p>
-            <p className="price">3.50</p>
+            <p className="price">$3.50</p>
           </article>
           <article className="item">
             <p className="flavor">Hazelnut</p>
-            <p className="price">4.00</p>
+            <p className="price">$4.00</p>
           </article>
           <article className="item">
             <p className="flavor">Mocha</p>
-            <p className="price">4.50</p>
+            <p className="price">$4.50</p>
           </article>
         </section>
 
@@ -44,19 +44,19 @@ export default function Home() {
           />
           <article className="item">
             <p className="dessert">Donut</p>
-            <p className="price">1.50</p>
+            <p className="price">$1.50</p>
           </article>
           <article className="item">
             <p className="dessert">Cherry Pie</p>
-            <p className="price">2.75</p>
+            <p className="price">$2.75</p>
           </article>
           <article className="item">
             <p className="dessert">Cheesecake</p>
-            <p className="price">3.00</p>
+            <p className="price">$3.00</p>
           </article>
           <article className="item">
             <p className="dessert">Cinnamon Roll</p>
-            <p className="price">2.50</p>
+            <p className="price">$2.50</p>
           </article>
         </section>
       </main>
